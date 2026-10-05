@@ -30,4 +30,4 @@ Medusa is not a licensed custodian and does not hold customer mainnet funds. We 
 
 **Headquarters:** Lugano, Ticino, Switzerland  
 **Website:** https://www.medusa-custody.com  
-**Contact:** hello@medusa.io
+**Contact:** hello@medusa-custody.com
