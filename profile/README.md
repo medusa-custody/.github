@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="medusa-shield.png" alt="Medusa Custody" width="160">
+  <img src="medusa-banner.png" alt="Medusa Custody" width="100%">
 </p>
 
 # Medusa Custody
